@@ -166,7 +166,7 @@ img {
 
   
   /* Requirements 12-15 here: */
-  .skip {
+  a.skip {
     left: 0;
     top: 20px;
   }
